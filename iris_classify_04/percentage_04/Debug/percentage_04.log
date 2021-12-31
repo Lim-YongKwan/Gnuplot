@@ -1,0 +1,10 @@
+﻿  zero.cpp
+C:\Users\LimYongKwan\source\repos\percentage_04\percentage_04\zero.cpp(355,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\source\repos\percentage_04\percentage_04\zero.cpp(359,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\source\repos\percentage_04\percentage_04\zero.cpp(366,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\source\repos\percentage_04\percentage_04\zero.cpp(370,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\source\repos\percentage_04\percentage_04\zero.cpp(377,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\source\repos\percentage_04\percentage_04\zero.cpp(381,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\source\repos\percentage_04\percentage_04\zero.cpp(388,28): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\LimYongKwan\source\repos\percentage_04\percentage_04\zero.cpp(392,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  percentage_04.vcxproj -> C:\Users\LimYongKwan\source\repos\percentage_04\Debug\percentage_04.exe
